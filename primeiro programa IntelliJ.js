@@ -36,3 +36,5 @@ CTRL+Y = Deleta a linha. */
 
 /* Plugins
 Rainbown Brackets = Muda a cor da chaves, pode auxiliar na hora, caso você se perca.
+
+
