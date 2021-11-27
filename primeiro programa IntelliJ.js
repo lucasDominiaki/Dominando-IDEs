@@ -22,9 +22,6 @@ public class gato{
 }
 
 
-
-
-
 /* Dicas
 digitar sout ira ajudar a imprimir o 'print' mais rapidamente.
 CRTL+SHIFT+F10=  Ira iniciar o programa e mostrar o metodo main.
